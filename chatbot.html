@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chatbot</title>
+    <link rel="stylesheet" href="assets/css/style-starter.css">
+    <style>
+        *{
+            margin: 0%;
+            padding: 0%;
+            box-sizing: border-box;
+        }
+        body{
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #fadfd7;
+        }
+        .chatbox{
+            border: 5px solid #f57b51;
+            border-radius: 19px;
+
+        }
+        iframe{
+            border-radius: 19px;
+        }
+    </style>
+</head>
+<body>
+    <a class="navbar-brand" href="index.html">
+        <img src="assets/images/hotels.png" alt="Your logo" style="height:35px;" /> Hotels</a>
+    <div class="chatbox">
+        <iframe src='https://webchat.botframework.com/embed/hotelqna-bot?s=Lu7Euz1_EzE.TaAzRvbneXUSKffiPX0YLgCWYxYtJ4x4hSIF9LQvsdo'  style='min-width: 400px; width: 100%; min-height: 80vh;'></iframe>
+    </div>
+</body>
+</html>
