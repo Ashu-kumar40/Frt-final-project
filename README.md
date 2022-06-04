@@ -2,7 +2,7 @@
 I created a hotels and rooms website named "Hotels" using HTML, CSS and JavaScript. It will help people to find good quality hotels and rooms in all pricing.
 ## Azure link
 https://purple-pond-0f65acf10.1.azurestaticapps.net/
-##Home page
+## Home page
 ![image](https://user-images.githubusercontent.com/95637428/172021249-f46b5e81-77a3-4fed-85cc-6561be2f92f7.png)
 ## About
 ![image](https://user-images.githubusercontent.com/95637428/172021281-e98c4972-adb9-45fa-b927-ebe7d3c15a1d.png)
